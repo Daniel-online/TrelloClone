@@ -1,8 +1,10 @@
 # Kanban
 
+![Captura de Tela (246)](https://github.com/user-attachments/assets/546a226d-aba1-43ec-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
-## Development server
+## Development serverab20-438b9cd7bb0a)
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
